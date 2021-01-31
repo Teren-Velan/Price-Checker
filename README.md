@@ -39,7 +39,7 @@ I hope to be able to delve deeper into web scraping and python and continue to i
 
 
 "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify that efficiency"
-~Bill Gates~
+--Bill Gates
 
 ## Contact
 
