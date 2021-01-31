@@ -1,4 +1,4 @@
-# Price-Checker
+# Price-Checker (Web Scraping with Python)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
